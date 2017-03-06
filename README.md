@@ -1,4 +1,4 @@
-# RNA-seq
+# RNAseq
 Differential expression analysis of RNA-sequencing data
 
 ##Step 1. Load files into R
