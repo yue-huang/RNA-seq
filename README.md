@@ -1,7 +1,7 @@
 # RNAseq
 Differential expression analysis of RNA-sequencing data
 
-##Step 1. Load files into R
+## Step 1. Load files into R
 ```
 load_file.r
 ```
